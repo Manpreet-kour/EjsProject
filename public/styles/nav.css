@@ -1,0 +1,36 @@
+body{
+    background-color: #E3FEF7;
+}
+*{
+    margin:0px;
+}
+.navbar{
+    background-color: #135D66;
+    display:flex;
+    justify-content: space-evenly;
+    color:white;
+    width:100%;
+    height:80px;
+}
+.first_section{
+    padding:20px;
+    margin-right:80px;
+}
+.second_section ul{
+    display:flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.second_section li{
+    margin-left: 20px;
+    margin-right:20px;
+    
+}
+.second_section li a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+
+}
