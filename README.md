@@ -21,7 +21,7 @@ Clone the repository:
 
 Copy code
 
-git clone https://github.com/your-username/innovate-expert.git
+git clone (https://github.com/Manpreet-kour/EjsProject.git)
 
 cd innovate-expert
 
